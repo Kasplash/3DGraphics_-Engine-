@@ -1,0 +1,5 @@
+﻿  3dGraphicsViewer.cpp
+c:\users\andre\source\repos\3dgraphicsviewer\3dgraphicsviewer\3dgraphicsviewer.cpp(163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\andre\source\repos\3dgraphicsviewer\3dgraphicsviewer\3dgraphicsviewer.cpp(162): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\andre\source\repos\3dgraphicsviewer\3dgraphicsviewer\3dgraphicsviewer.cpp(161): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3dGraphicsViewer.vcxproj -> C:\Users\Andre\source\repos\3dGraphicsViewer\Debug\3dGraphicsViewer.exe
